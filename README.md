@@ -14,8 +14,6 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 
 ## More Courses
 
-## More Courses
-
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
 - [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
