@@ -4,26 +4,24 @@
 <img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
 </div>
 
-MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
+MySQL is a popular relational database management system. This Skill Tree provides a comprehensive learning path for mastering MySQL. Ideal for database beginners, it offers a structured roadmap to understand SQL, database design, and administration. Through hands-on, non-video courses and practical exercises in an interactive SQL playground, you'll gain real-world experience in managing and querying databases.
 
-|   Index | Name                                                                            | Level   | Repo                                                              | Course Link                                                   |
-|---------|---------------------------------------------------------------------------------|---------|-------------------------------------------------------------------|---------------------------------------------------------------|
-|       1 | [Quick Start with MySQL](https://labex.io/courses/quick-start-with-mysql)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)    | [🚀 Start](https://labex.io/courses/quick-start-with-mysql)    |
-|       2 | [MySQL Practice Labs](https://labex.io/courses/mysql-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/mysql-practice-labs)       | [🚀 Start](https://labex.io/courses/mysql-practice-labs)       |
-|       3 | [MySQL Practice Challenges](https://labex.io/courses/mysql-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/mysql-practice-challenges) | [🚀 Start](https://labex.io/courses/mysql-practice-challenges) |
+|   Index | Name                                                                      | Level   | Repo                                                           | Course Link                                                |
+|---------|---------------------------------------------------------------------------|---------|----------------------------------------------------------------|------------------------------------------------------------|
+|       1 | [Quick Start with MySQL](https://labex.io/courses/quick-start-with-mysql) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql) | [🚀 Start](https://labex.io/courses/quick-start-with-mysql) |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
