@@ -12,8 +12,8 @@ MySQL は広く使用されているリレーショナルデータベース管�
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                                   | 練習                                                                       |
 |----------------|------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|              1 | [MySQL のクイックスタート](https://labex.io/ja/courses/quick-start-with-mysql)     | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mysql)        |
-|              2 | [高度な MySQL 実践ラボ](https://labex.io/ja/courses/advanced-mysql-practical-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/advanced-mysql-practical-labs) |
+|              1 | [MySQL のクイックスタート](https://labex.io/ja/courses/quick-start-with-mysql)     | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mysql)        |
+|              2 | [高度な MySQL 実践ラボ](https://labex.io/ja/courses/advanced-mysql-practical-labs) | 初級     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/advanced-mysql-practical-labs) |
 
 ## その他
 
