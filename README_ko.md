@@ -12,8 +12,8 @@ MySQL 은 널리 사용되는 관계형 데이터베이스 관리 시스템입�
 
 |   인덱스 | 이름                                                                            | 난이도   | Repo                                                                   | 연습                                                                      |
 |----------|---------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [MySQL 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mysql)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mysql)        |
-|        2 | [고급 MySQL 실습 랩](https://labex.io/ko/courses/advanced-mysql-practical-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 실습 시작](https://labex.io/ko/courses/advanced-mysql-practical-labs) |
+|        1 | [MySQL 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mysql)           | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mysql)        |
+|        2 | [고급 MySQL 실습 랩](https://labex.io/ko/courses/advanced-mysql-practical-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 실습 시작](https://labex.io/ko/courses/advanced-mysql-practical-labs) |
 
 ## 더 보기
 
