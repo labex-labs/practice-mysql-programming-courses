@@ -12,8 +12,8 @@ MySQL 是一款广泛使用的关系型数据库管理系统。此技能树为�
 
 |   序号 | 名称                                                                               | 难度   | Repo                                                                   | 练习                                                                     |
 |--------|------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|      1 | [MySQL 快速入门](https://labex.io/zh/courses/quick-start-with-mysql)               | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mysql)        |
-|      2 | [高级 MySQL 实战实验室](https://labex.io/zh/courses/advanced-mysql-practical-labs) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 开始实验](https://labex.io/zh/courses/advanced-mysql-practical-labs) |
+|      1 | [MySQL 快速入门](https://labex.io/zh/courses/quick-start-with-mysql)               | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mysql)        |
+|      2 | [高级 MySQL 实战实验室](https://labex.io/zh/courses/advanced-mysql-practical-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 开始实验](https://labex.io/zh/courses/advanced-mysql-practical-labs) |
 
 ## 更多
 
