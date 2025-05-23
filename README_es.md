@@ -12,8 +12,8 @@ MySQL es un sistema de gestión de bases de datos relacional ampliamente utiliza
 
 |   Índice | Nombre                                                                                                 | Dificultad   | Repo                                                                   | Práctica                                                                            |
 |----------|--------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con MySQL](https://labex.io/es/courses/quick-start-with-mysql)                          | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-mysql)        |
-|        2 | [Laboratorios Prácticos Avanzados de MySQL](https://labex.io/es/courses/advanced-mysql-practical-labs) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/advanced-mysql-practical-labs) |
+|        1 | [Inicio rápido con MySQL](https://labex.io/es/courses/quick-start-with-mysql)                          | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-mysql)        |
+|        2 | [Laboratorios Prácticos Avanzados de MySQL](https://labex.io/es/courses/advanced-mysql-practical-labs) | Principiante | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/advanced-mysql-practical-labs) |
 
 ## Más
 
