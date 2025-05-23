@@ -12,8 +12,8 @@ MySQL ist ein weit verbreitetes relationales Datenbankmanagementsystem. Dieser S
 
 |   Index | Name                                                                                                  | Schwierigkeit   | Repo                                                                   | Übung                                                                         |
 |---------|-------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|       1 | [Schnellstart mit MySQL](https://labex.io/de/courses/quick-start-with-mysql)                          | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mysql)        |
-|       2 | [Fortgeschrittene MySQL-Praktikumsübungen](https://labex.io/de/courses/advanced-mysql-practical-labs) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Labor Starten](https://labex.io/de/courses/advanced-mysql-practical-labs) |
+|       1 | [Schnellstart mit MySQL](https://labex.io/de/courses/quick-start-with-mysql)                          | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mysql)        |
+|       2 | [Fortgeschrittene MySQL-Praktikumsübungen](https://labex.io/de/courses/advanced-mysql-practical-labs) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Labor Starten](https://labex.io/de/courses/advanced-mysql-practical-labs) |
 
 ## Mehr
 
