@@ -12,8 +12,8 @@ MySQL is a widely - used relational database management system. This Skill Tree 
 
 |   Index | Name                                                                                    | Difficulty   | Repo                                                                   | Practice                                                               |
 |---------|-----------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Quick Start with MySQL](https://labex.io/courses/quick-start-with-mysql)               | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Start Lab](https://labex.io/courses/quick-start-with-mysql)        |
-|       2 | [Advanced MySQL Practical Labs](https://labex.io/courses/advanced-mysql-practical-labs) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Start Lab](https://labex.io/courses/advanced-mysql-practical-labs) |
+|       1 | [Quick Start with MySQL](https://labex.io/courses/quick-start-with-mysql)               | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Start Lab](https://labex.io/courses/quick-start-with-mysql)        |
+|       2 | [Advanced MySQL Practical Labs](https://labex.io/courses/advanced-mysql-practical-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Start Lab](https://labex.io/courses/advanced-mysql-practical-labs) |
 
 ## More
 
