@@ -12,7 +12,7 @@
 
 |   인덱스 | 이름                                                                            | 난이도   | Repo                                                                   | 연습                                                                      |
 |----------|---------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [MySQL 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mysql)           | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mysql)        |
+|        1 | [초보자를 위한 MySQL](https://labex.io/ko/courses/mysql-for-beginners)          | 초급     | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)           | [🚀 실습 시작](https://labex.io/ko/courses/mysql-for-beginners)           |
 |        2 | [고급 MySQL 실습 랩](https://labex.io/ko/courses/advanced-mysql-practical-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 실습 시작](https://labex.io/ko/courses/advanced-mysql-practical-labs) |
 
 ## 더 보기
