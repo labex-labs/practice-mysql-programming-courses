@@ -12,7 +12,7 @@
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                                   | 練習                                                                       |
 |----------------|------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|              1 | [MySQL のクイックスタート](https://labex.io/ja/courses/quick-start-with-mysql)     | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mysql)        |
+|              1 | [初心者向け MySQL](https://labex.io/ja/courses/mysql-for-beginners)                | 初級     | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)           | [🚀 ラボを開始](https://labex.io/ja/courses/mysql-for-beginners)           |
 |              2 | [高度な MySQL 実践ラボ](https://labex.io/ja/courses/advanced-mysql-practical-labs) | 初級     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/advanced-mysql-practical-labs) |
 
 ## その他
