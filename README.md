@@ -12,7 +12,7 @@ Learn MySQL, a widely-used relational database management system, with this comp
 
 |   Index | Name                                                                                    | Difficulty   | Repo                                                                   | Practice                                                               |
 |---------|-----------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Quick Start with MySQL](https://labex.io/courses/quick-start-with-mysql)               | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Start Lab](https://labex.io/courses/quick-start-with-mysql)        |
+|       1 | [MySQL for Beginners](https://labex.io/courses/mysql-for-beginners)                     | Beginner     | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)           | [🚀 Start Lab](https://labex.io/courses/mysql-for-beginners)           |
 |       2 | [Advanced MySQL Practical Labs](https://labex.io/courses/advanced-mysql-practical-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Start Lab](https://labex.io/courses/advanced-mysql-practical-labs) |
 
 ## More
