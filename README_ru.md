@@ -12,7 +12,7 @@
 
 |   Индекс | Название                                                                                                            | Сложность   | Repo                                                                   | Практика                                                                           |
 |----------|---------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с MySQL](https://labex.io/ru/courses/quick-start-with-mysql)                                         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-mysql)        |
+|        1 | [MySQL для начинающих](https://labex.io/ru/courses/mysql-for-beginners)                                             | Начинающий  | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)           | [🚀 Начать Лабораторию](https://labex.io/ru/courses/mysql-for-beginners)           |
 |        2 | [Практические лабораторные работы по продвинутому MySQL](https://labex.io/ru/courses/advanced-mysql-practical-labs) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/advanced-mysql-practical-labs) |
 
 ## Больше
