@@ -12,7 +12,7 @@ Aprende MySQL, un sistema de gestión de bases de datos relacionales ampliamente
 
 |   Índice | Nombre                                                                                                 | Dificultad   | Repo                                                                   | Práctica                                                                            |
 |----------|--------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con MySQL](https://labex.io/es/courses/quick-start-with-mysql)                          | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-mysql)        |
+|        1 | [MySQL para Principiantes](https://labex.io/es/courses/mysql-for-beginners)                            | Principiante | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)           | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/mysql-for-beginners)           |
 |        2 | [Laboratorios Prácticos Avanzados de MySQL](https://labex.io/es/courses/advanced-mysql-practical-labs) | Principiante | [🔗 Repo](https://github.com/labex-labs/advanced-mysql-practical-labs) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/advanced-mysql-practical-labs) |
 
 ## Más
